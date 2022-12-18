@@ -12,6 +12,7 @@
     2.   Normalisation 
           -  Xnorm = X - min(X) / max(X) - min(X)
           
-          
-          ![alt text](https://user-images.githubusercontent.com/63837999/208313923-74d3114f-b89b-4db1-b544-c783ca9b3dfa.jpg)
+          ![Screenshot 2022-12-18 124059](https://user-images.githubusercontent.com/63837999/208314013-73313fc3-f77d-4c7d-96ef-29f79bdab09e.jpg)
 
+          
+       
